@@ -1,4 +1,5 @@
-Credit Card Delinquency Prediction
+**Credit Card Delinquency Prediction**
+
 This project aims to predict credit card delinquency using machine learning models, specifically Decision Tree and Random Forest classifiers. The dataset includes various features such as card category, annual fees, customer acquisition cost, credit limit, and others. The target variable is whether a customer has a delinquent account or not. 🔍
 
 📊 Exploratory Data Analysis (EDA)
